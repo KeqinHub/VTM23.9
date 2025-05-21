@@ -1,4 +1,4 @@
-VTM reference software for VVC
+Locally modified VVC
 ==============================
 
 This software package is the reference software for Rec. ITU-T H.266 | ISO/IEC 23090-3 Versatile Video Coding (VVC). The reference software includes both encoder and decoder functionality.
